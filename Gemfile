@@ -50,6 +50,7 @@ group :development do
   gem 'bootstrap-sass'
   gem 'simple_form'
   gem 'devise'
+  gem 'will_paginate'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
